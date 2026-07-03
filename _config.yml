@@ -1,0 +1,4 @@
+# GitHub Pages Jekyll configuration
+# Disable Jekyll processing for static HTML sites
+# This tells GitHub to serve files as-is without Jekyll transformation
+
